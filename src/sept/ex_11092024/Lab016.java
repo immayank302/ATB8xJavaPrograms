@@ -13,6 +13,13 @@ public class Lab016 {
         System.out.println(distance_between_earth_and_moon);
         System.out.println(distance_between_earth_and_moon1);
 
+        // If we want to use the age which data type should we use
+        // We can use byte data type
+
+        byte age=122;
+
+        int a=122; // if we use the int type to store the age variable then we are wasting the memory
+
 
 
 
