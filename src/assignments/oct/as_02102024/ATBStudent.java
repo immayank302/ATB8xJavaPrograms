@@ -1,4 +1,4 @@
-package assignments.as_02102024;
+package assignments.oct.as_02102024;
 //Create a Class  ATBStudent and 5 Objects - (A/B) - github.com
 public class ATBStudent {
 

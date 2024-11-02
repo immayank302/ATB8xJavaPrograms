@@ -1,4 +1,4 @@
-package assignments.as_04102024;
+package assignments.oct.as_04102024;
 
 public class Person1 {
     public static void main(String[] args) {

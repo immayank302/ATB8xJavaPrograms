@@ -1,4 +1,4 @@
-package assignments.as_04102024;
+package assignments.oct.as_04102024;
 
 public class Person {
 

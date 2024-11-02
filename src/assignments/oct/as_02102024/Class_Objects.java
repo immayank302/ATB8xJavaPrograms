@@ -1,5 +1,5 @@
 // Write 5 points related to the Class and Objects.
-package assignments.as_02102024;
+package assignments.oct.as_02102024;
 
 public class Class_Objects {
     public static void main(String[] args) {

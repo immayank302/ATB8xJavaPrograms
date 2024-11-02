@@ -1,5 +1,5 @@
 // OOPs and Features.
-package assignments.as_02102024;
+package assignments.oct.as_02102024;
 
 public class OOPS_features {
 
